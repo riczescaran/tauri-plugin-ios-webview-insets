@@ -1,0 +1,9 @@
+/target/
+Cargo.lock
+**/.DS_Store
+
+# Generated when building the iOS Swift package (Tauri copies the Swift API here).
+/.tauri/
+
+# SwiftPM (regenerated locally)
+/ios/Package.resolved

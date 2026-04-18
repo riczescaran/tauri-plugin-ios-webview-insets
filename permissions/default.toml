@@ -1,0 +1,5 @@
+"$schema" = "schemas/schema.json"
+
+[default]
+description = "No guest commands; plugin only adjusts WKWebView scroll insets on load."
+permissions = []
